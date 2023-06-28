@@ -1,0 +1,35 @@
+.clients-card {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.clients-card-container {
+  min-height: 100vh;
+}
+
+.clients-header-container {
+  min-height: 100vh;
+}
+
+.mat-mdc-row .mat-mdc-cell {
+  border-bottom: 1px solid transparent;
+  border-top: 1px solid transparent;
+}
+
+.mat-mdc-row:hover .mat-mdc-cell {
+  border-color: currentColor;
+}
+
+.mat-column-Detalle {
+  width: 5% !important;
+  cursor: pointer;
+}
+
+.mat-column-Accion {
+  width: 5% !important;
+  cursor: pointer;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
